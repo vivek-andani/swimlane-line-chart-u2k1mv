@@ -1,0 +1,3 @@
+ngx-charts-chart ::ng-deep .gridline-path.gridline-path-horizontal {
+  stroke: #ff5733; /* Set your desired color */
+}
